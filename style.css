@@ -1,0 +1,60 @@
+.nav-div{
+    display: flex;
+    justify-content: space-evenly
+}
+
+
+#Contain{
+    margin:0 250px;
+}
+
+#Contain ul li a{
+
+
+    margin-right: 10px;
+    font-size: 26px;
+    font-weight: 400;
+    font-family: Poppins;
+    color: #707070;
+}
+
+.nav-button{
+    width: 240px;
+    padding:5px 50px ;
+    background-color: #B68C5A;
+    border-radius: 8px;
+    border: none;
+    font-size: 16px;
+    font-weight: 400;
+    color: white;
+
+
+}
+
+
+.banner{
+    position: relative;
+}
+.banner-title{
+    position: absolute;
+    color: aliceblue;
+    width: 668px;
+    top:15%;
+    left: 20%;
+}
+
+.banner-title h3 {
+    font-size: 60px;
+    font-weight: 800;
+    text-align: center;
+    
+}
+
+
+.banner-title p{
+    text-align: center;
+}
+
+.banner-title form {
+    text-align: center;
+}
