@@ -58,3 +58,49 @@
 .banner-title form {
     text-align: center;
 }
+
+.cards{
+    display: grid;
+    grid-template-columns: repeat(3,401px );
+}
+
+.card{
+    width: 401px;
+    height: 499px;
+}
+
+.card > img {
+    width: 71px;
+    height: 72px;
+    margin: 25px auto;
+    
+   
+}
+.card-details{
+    width:258px;
+    height: 196px;
+    margin:0 auto;
+}
+
+ .card-description{
+    width: 258px;
+    height: 130px;
+    text-align: center;
+ }
+
+ .card .frame{
+    width: 40px;
+    height: 40px;
+    margin-top: 0;
+ }
+
+ .card-title{
+    color: #414040;
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+ }
+
+ .middle{
+    background-color: #E7E7E7;
+ }
